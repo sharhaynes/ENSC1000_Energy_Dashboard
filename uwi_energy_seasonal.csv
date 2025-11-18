@@ -1,0 +1,721 @@
+Date,Building,Commodity,Usage,Cost
+2020-01-31,Sydney Martin Library,Electricity,4299.17,980.2
+2020-02-29,Sydney Martin Library,Electricity,4299.17,1148.26
+2020-03-31,Sydney Martin Library,Electricity,4299.17,1053.26
+2020-04-30,Sydney Martin Library,Electricity,4299.17,1234.41
+2020-05-31,Sydney Martin Library,Electricity,2429.97,548.15
+2020-06-30,Sydney Martin Library,Electricity,2429.97,624.36
+2020-07-31,Sydney Martin Library,Electricity,2429.97,618.55
+2020-08-31,Sydney Martin Library,Electricity,5046.86,1113.32
+2020-09-30,Sydney Martin Library,Electricity,5046.86,1414.79
+2020-10-31,Sydney Martin Library,Electricity,5046.86,1449.72
+2020-11-30,Sydney Martin Library,Electricity,5046.86,1434.41
+2020-12-31,Sydney Martin Library,Electricity,5046.86,1117.31
+2021-01-31,Sydney Martin Library,Electricity,4299.17,1108.57
+2021-02-28,Sydney Martin Library,Electricity,4299.17,957.8
+2021-03-31,Sydney Martin Library,Electricity,4299.17,914.42
+2021-04-30,Sydney Martin Library,Electricity,4299.17,1098.9
+2021-05-31,Sydney Martin Library,Electricity,2429.97,612.75
+2021-06-30,Sydney Martin Library,Electricity,2429.97,530.72
+2021-07-31,Sydney Martin Library,Electricity,2429.97,547.72
+2021-08-31,Sydney Martin Library,Electricity,5046.86,1189.77
+2021-09-30,Sydney Martin Library,Electricity,5046.86,1369.01
+2021-10-31,Sydney Martin Library,Electricity,5046.86,1306.8
+2021-11-30,Sydney Martin Library,Electricity,5046.86,1073.52
+2021-12-31,Sydney Martin Library,Electricity,5046.86,1361.17
+2022-01-31,Sydney Martin Library,Electricity,4299.17,1059.24
+2022-02-28,Sydney Martin Library,Electricity,4299.17,949.19
+2022-03-31,Sydney Martin Library,Electricity,4299.17,1041.44
+2022-04-30,Sydney Martin Library,Electricity,4299.17,1231.61
+2022-05-31,Sydney Martin Library,Electricity,3401.96,966.43
+2022-06-30,Sydney Martin Library,Electricity,2429.97,597.85
+2022-07-31,Sydney Martin Library,Electricity,2429.97,611.1
+2022-08-31,Sydney Martin Library,Electricity,5046.86,1370.87
+2022-09-30,Sydney Martin Library,Electricity,5046.86,1093.08
+2022-10-31,Sydney Martin Library,Electricity,5046.86,1223.88
+2022-11-30,Sydney Martin Library,Electricity,5046.86,1316.29
+2022-12-31,Sydney Martin Library,Electricity,5046.86,1316.74
+2023-01-31,Sydney Martin Library,Electricity,4299.17,1177.87
+2023-02-28,Sydney Martin Library,Electricity,4299.17,997.89
+2023-03-31,Sydney Martin Library,Electricity,4299.17,1206.9
+2023-04-30,Sydney Martin Library,Electricity,4299.17,1101.84
+2023-05-31,Sydney Martin Library,Electricity,2429.97,625.04
+2023-06-30,Sydney Martin Library,Electricity,2429.97,603.65
+2023-07-31,Sydney Martin Library,Electricity,2429.97,589.38
+2023-08-31,Sydney Martin Library,Electricity,5046.86,1189.57
+2023-09-30,Sydney Martin Library,Electricity,5046.86,1082.66
+2023-10-31,Sydney Martin Library,Electricity,5046.86,1359.61
+2023-11-30,Sydney Martin Library,Electricity,5046.86,1291.37
+2023-12-31,Sydney Martin Library,Electricity,5046.86,1293.14
+2024-01-31,Sydney Martin Library,Electricity,4299.17,1076.45
+2024-02-29,Sydney Martin Library,Electricity,4299.17,917.8
+2024-03-31,Sydney Martin Library,Electricity,4299.17,1191.12
+2024-04-30,Sydney Martin Library,Electricity,4299.17,1067.91
+2024-05-31,Sydney Martin Library,Electricity,2429.97,679.73
+2024-06-30,Sydney Martin Library,Electricity,2429.97,608.56
+2024-07-31,Sydney Martin Library,Electricity,2429.97,649.82
+2024-08-31,Sydney Martin Library,Electricity,5046.86,1300.68
+2024-09-30,Sydney Martin Library,Electricity,5046.86,1294.49
+2024-10-31,Sydney Martin Library,Electricity,5046.86,1380.26
+2024-11-30,Sydney Martin Library,Electricity,5046.86,1121.29
+2024-12-31,Sydney Martin Library,Electricity,5046.86,1289.71
+2020-01-31,Sydney Martin Library,Water,1610.72,13.84
+2020-02-29,Sydney Martin Library,Water,1610.72,16.44
+2020-03-31,Sydney Martin Library,Water,1610.72,18.32
+2020-04-30,Sydney Martin Library,Water,1610.72,17.6
+2020-05-31,Sydney Martin Library,Water,910.41,8.82
+2020-06-30,Sydney Martin Library,Water,910.41,8.1
+2020-07-31,Sydney Martin Library,Water,910.41,8.24
+2020-08-31,Sydney Martin Library,Water,1890.84,18.22
+2020-09-30,Sydney Martin Library,Water,1890.84,16.31
+2020-10-31,Sydney Martin Library,Water,1890.84,16.69
+2020-11-30,Sydney Martin Library,Water,1890.84,20.02
+2020-12-31,Sydney Martin Library,Water,2647.18,29.56
+2021-01-31,Sydney Martin Library,Water,1610.72,16.92
+2021-02-28,Sydney Martin Library,Water,1610.72,17.79
+2021-03-31,Sydney Martin Library,Water,1610.72,14.3
+2021-04-30,Sydney Martin Library,Water,1610.72,15.68
+2021-05-31,Sydney Martin Library,Water,910.41,9.87
+2021-06-30,Sydney Martin Library,Water,910.41,9.57
+2021-07-31,Sydney Martin Library,Water,910.41,9.99
+2021-08-31,Sydney Martin Library,Water,1890.84,16.76
+2021-09-30,Sydney Martin Library,Water,1890.84,20.34
+2021-10-31,Sydney Martin Library,Water,1890.84,21.44
+2021-11-30,Sydney Martin Library,Water,1890.84,21.61
+2021-12-31,Sydney Martin Library,Water,3403.52,36.49
+2022-01-31,Sydney Martin Library,Water,1610.72,17.29
+2022-02-28,Sydney Martin Library,Water,1610.72,18.22
+2022-03-31,Sydney Martin Library,Water,1610.72,14.13
+2022-04-30,Sydney Martin Library,Water,1610.72,16.55
+2022-05-31,Sydney Martin Library,Water,910.41,8.68
+2022-06-30,Sydney Martin Library,Water,910.41,7.98
+2022-07-31,Sydney Martin Library,Water,910.41,8.7
+2022-08-31,Sydney Martin Library,Water,1890.84,16.58
+2022-09-30,Sydney Martin Library,Water,1890.84,16.79
+2022-10-31,Sydney Martin Library,Water,1890.84,21.21
+2022-11-30,Sydney Martin Library,Water,1890.84,18.46
+2022-12-31,Sydney Martin Library,Water,1890.84,16.41
+2023-01-31,Sydney Martin Library,Water,1610.72,16.66
+2023-02-28,Sydney Martin Library,Water,1610.72,16.73
+2023-03-31,Sydney Martin Library,Water,1610.72,16.81
+2023-04-30,Sydney Martin Library,Water,1610.72,14.97
+2023-05-31,Sydney Martin Library,Water,910.41,10.19
+2023-06-30,Sydney Martin Library,Water,910.41,10.46
+2023-07-31,Sydney Martin Library,Water,1638.73,16.6
+2023-08-31,Sydney Martin Library,Water,1890.84,16.14
+2023-09-30,Sydney Martin Library,Water,1890.84,19.28
+2023-10-31,Sydney Martin Library,Water,1890.84,21.54
+2023-11-30,Sydney Martin Library,Water,1890.84,18.5
+2023-12-31,Sydney Martin Library,Water,2647.18,27.46
+2024-01-31,Sydney Martin Library,Water,1610.72,17.87
+2024-02-29,Sydney Martin Library,Water,1610.72,17.02
+2024-03-31,Sydney Martin Library,Water,1610.72,14.11
+2024-04-30,Sydney Martin Library,Water,1610.72,14.92
+2024-05-31,Sydney Martin Library,Water,910.41,10.29
+2024-06-30,Sydney Martin Library,Water,1274.57,12.26
+2024-07-31,Sydney Martin Library,Water,1638.73,15.54
+2024-08-31,Sydney Martin Library,Water,1890.84,16.72
+2024-09-30,Sydney Martin Library,Water,1890.84,18.26
+2024-10-31,Sydney Martin Library,Water,1890.84,17.87
+2024-11-30,Sydney Martin Library,Water,1890.84,20.15
+2024-12-31,Sydney Martin Library,Water,2647.18,29.69
+2020-01-31,Sydney Martin Library,Gas,1197.63,98.01
+2020-02-29,Sydney Martin Library,Gas,1197.63,89.8
+2020-03-31,Sydney Martin Library,Gas,1197.63,101.74
+2020-04-30,Sydney Martin Library,Gas,1197.63,84.5
+2020-05-31,Sydney Martin Library,Gas,676.92,59.79
+2020-06-30,Sydney Martin Library,Gas,676.92,54.25
+2020-07-31,Sydney Martin Library,Gas,676.92,59.59
+2020-08-31,Sydney Martin Library,Gas,1405.91,120.18
+2020-09-30,Sydney Martin Library,Gas,1405.91,110.63
+2020-10-31,Sydney Martin Library,Gas,1405.91,112.71
+2020-11-30,Sydney Martin Library,Gas,1405.91,107.46
+2020-12-31,Sydney Martin Library,Gas,1405.91,102.77
+2021-01-31,Sydney Martin Library,Gas,1197.63,95.92
+2021-02-28,Sydney Martin Library,Gas,1197.63,89.9
+2021-03-31,Sydney Martin Library,Gas,1197.63,82.28
+2021-04-30,Sydney Martin Library,Gas,1197.63,82.24
+2021-05-31,Sydney Martin Library,Gas,676.92,52.95
+2021-06-30,Sydney Martin Library,Gas,676.92,51.53
+2021-07-31,Sydney Martin Library,Gas,676.92,60.59
+2021-08-31,Sydney Martin Library,Gas,1405.91,113.89
+2021-09-30,Sydney Martin Library,Gas,1405.91,124.75
+2021-10-31,Sydney Martin Library,Gas,1405.91,126.87
+2021-11-30,Sydney Martin Library,Gas,1968.27,143.43
+2021-12-31,Sydney Martin Library,Gas,1405.91,98.07
+2022-01-31,Sydney Martin Library,Gas,1197.63,105.03
+2022-02-28,Sydney Martin Library,Gas,1197.63,83.24
+2022-03-31,Sydney Martin Library,Gas,1197.63,109.81
+2022-04-30,Sydney Martin Library,Gas,1197.63,102.22
+2022-05-31,Sydney Martin Library,Gas,676.92,51.3
+2022-06-30,Sydney Martin Library,Gas,676.92,51.34
+2022-07-31,Sydney Martin Library,Gas,676.92,46.14
+2022-08-31,Sydney Martin Library,Gas,1405.91,128.42
+2022-09-30,Sydney Martin Library,Gas,1405.91,127.67
+2022-10-31,Sydney Martin Library,Gas,1405.91,100.43
+2022-11-30,Sydney Martin Library,Gas,1405.91,119.13
+2022-12-31,Sydney Martin Library,Gas,1405.91,116.08
+2023-01-31,Sydney Martin Library,Gas,1197.63,108.63
+2023-02-28,Sydney Martin Library,Gas,1197.63,108.21
+2023-03-31,Sydney Martin Library,Gas,1197.63,95.12
+2023-04-30,Sydney Martin Library,Gas,1197.63,101.19
+2023-05-31,Sydney Martin Library,Gas,676.92,51.2
+2023-06-30,Sydney Martin Library,Gas,947.69,68.72
+2023-07-31,Sydney Martin Library,Gas,676.92,48.08
+2023-08-31,Sydney Martin Library,Gas,1968.27,151.48
+2023-09-30,Sydney Martin Library,Gas,1405.91,114.17
+2023-10-31,Sydney Martin Library,Gas,1968.27,150.55
+2023-11-30,Sydney Martin Library,Gas,1405.91,128.55
+2023-12-31,Sydney Martin Library,Gas,1405.91,115.48
+2024-01-31,Sydney Martin Library,Gas,1197.63,83.13
+2024-02-29,Sydney Martin Library,Gas,1197.63,84.38
+2024-03-31,Sydney Martin Library,Gas,1197.63,102.23
+2024-04-30,Sydney Martin Library,Gas,1197.63,106.53
+2024-05-31,Sydney Martin Library,Gas,676.92,60.64
+2024-06-30,Sydney Martin Library,Gas,1218.45,107.96
+2024-07-31,Sydney Martin Library,Gas,676.92,60.26
+2024-08-31,Sydney Martin Library,Gas,1405.91,111.35
+2024-09-30,Sydney Martin Library,Gas,1405.91,116.7
+2024-10-31,Sydney Martin Library,Gas,1405.91,113.33
+2024-11-30,Sydney Martin Library,Gas,1405.91,102.06
+2024-12-31,Sydney Martin Library,Gas,1405.91,101.99
+2020-01-31,FST Building,Electricity,5691.03,1534.03
+2020-02-29,FST Building,Electricity,5691.03,1271.57
+2020-03-31,FST Building,Electricity,5691.03,1306.04
+2020-04-30,FST Building,Electricity,5691.03,1289.95
+2020-05-31,FST Building,Electricity,3216.67,806.02
+2020-06-30,FST Building,Electricity,3216.67,871.71
+2020-07-31,FST Building,Electricity,3216.67,759.66
+2020-08-31,FST Building,Electricity,6680.78,1426.52
+2020-09-30,FST Building,Electricity,6680.78,1735.33
+2020-10-31,FST Building,Electricity,6680.78,1831.52
+2020-11-30,FST Building,Electricity,6680.78,1600.31
+2020-12-31,FST Building,Electricity,6680.78,1882.41
+2021-01-31,FST Building,Electricity,5691.03,1520.59
+2021-02-28,FST Building,Electricity,5691.03,1308.02
+2021-03-31,FST Building,Electricity,5691.03,1345.49
+2021-04-30,FST Building,Electricity,5691.03,1509.28
+2021-05-31,FST Building,Electricity,3216.67,807.83
+2021-06-30,FST Building,Electricity,3216.67,757.63
+2021-07-31,FST Building,Electricity,3216.67,784.81
+2021-08-31,FST Building,Electricity,6680.78,1818.35
+2021-09-30,FST Building,Electricity,6680.78,1862.52
+2021-10-31,FST Building,Electricity,6680.78,1874.4
+2021-11-30,FST Building,Electricity,6680.78,1825.17
+2021-12-31,FST Building,Electricity,6680.78,1456.64
+2022-01-31,FST Building,Electricity,5691.03,1328.46
+2022-02-28,FST Building,Electricity,5691.03,1419.16
+2022-03-31,FST Building,Electricity,5691.03,1238.51
+2022-04-30,FST Building,Electricity,5691.03,1396.71
+2022-05-31,FST Building,Electricity,3216.67,803.27
+2022-06-30,FST Building,Electricity,3216.67,775.66
+2022-07-31,FST Building,Electricity,3216.67,879.74
+2022-08-31,FST Building,Electricity,6680.78,1850.82
+2022-09-30,FST Building,Electricity,9353.09,2060.17
+2022-10-31,FST Building,Electricity,6680.78,1420.2
+2022-11-30,FST Building,Electricity,6680.78,1470.9
+2022-12-31,FST Building,Electricity,6680.78,1815.63
+2023-01-31,FST Building,Electricity,5691.03,1373.77
+2023-02-28,FST Building,Electricity,5691.03,1436.04
+2023-03-31,FST Building,Electricity,5691.03,1586.17
+2023-04-30,FST Building,Electricity,7967.45,2224.53
+2023-05-31,FST Building,Electricity,3216.67,754.07
+2023-06-30,FST Building,Electricity,3216.67,760.58
+2023-07-31,FST Building,Electricity,4503.34,1059.08
+2023-08-31,FST Building,Electricity,6680.78,1804.94
+2023-09-30,FST Building,Electricity,6680.78,1677.22
+2023-10-31,FST Building,Electricity,6680.78,1759.03
+2023-11-30,FST Building,Electricity,6680.78,1521.54
+2023-12-31,FST Building,Electricity,6680.78,1691.8
+2024-01-31,FST Building,Electricity,5691.03,1443.27
+2024-02-29,FST Building,Electricity,5691.03,1290.71
+2024-03-31,FST Building,Electricity,5691.03,1455.41
+2024-04-30,FST Building,Electricity,5691.03,1545.31
+2024-05-31,FST Building,Electricity,3216.67,837.62
+2024-06-30,FST Building,Electricity,3216.67,836.72
+2024-07-31,FST Building,Electricity,3216.67,849.92
+2024-08-31,FST Building,Electricity,6680.78,1779.04
+2024-09-30,FST Building,Electricity,6680.78,1902.47
+2024-10-31,FST Building,Electricity,12025.4,3408.06
+2024-11-30,FST Building,Electricity,6680.78,1578.6
+2024-12-31,FST Building,Electricity,6680.78,1513.83
+2020-01-31,FST Building,Water,2722.06,29.23
+2020-02-29,FST Building,Water,2722.06,26.31
+2020-03-31,FST Building,Water,2722.06,30.11
+2020-04-30,FST Building,Water,2722.06,28.11
+2020-05-31,FST Building,Water,1538.56,15.37
+2020-06-30,FST Building,Water,1538.56,13.16
+2020-07-31,FST Building,Water,1538.56,16.09
+2020-08-31,FST Building,Water,3195.46,30.2
+2020-09-30,FST Building,Water,3195.46,27.97
+2020-10-31,FST Building,Water,3195.46,34.27
+2020-11-30,FST Building,Water,3195.46,29.54
+2020-12-31,FST Building,Water,3195.46,35.63
+2021-01-31,FST Building,Water,2722.06,30.33
+2021-02-28,FST Building,Water,2722.06,24.65
+2021-03-31,FST Building,Water,2722.06,28.54
+2021-04-30,FST Building,Water,2722.06,28.21
+2021-05-31,FST Building,Water,1538.56,16.42
+2021-06-30,FST Building,Water,1538.56,14.45
+2021-07-31,FST Building,Water,1538.56,15.92
+2021-08-31,FST Building,Water,3195.46,30.02
+2021-09-30,FST Building,Water,3195.46,34.68
+2021-10-31,FST Building,Water,3195.46,31.8
+2021-11-30,FST Building,Water,3195.46,27.21
+2021-12-31,FST Building,Water,3195.46,33.78
+2022-01-31,FST Building,Water,2722.06,28.51
+2022-02-28,FST Building,Water,2722.06,30.1
+2022-03-31,FST Building,Water,2722.06,27.7
+2022-04-30,FST Building,Water,2722.06,30.57
+2022-05-31,FST Building,Water,1538.56,14.4
+2022-06-30,FST Building,Water,1538.56,13.22
+2022-07-31,FST Building,Water,2153.98,19.02
+2022-08-31,FST Building,Water,3195.46,31.59
+2022-09-30,FST Building,Water,3195.46,29.71
+2022-10-31,FST Building,Water,3195.46,33.67
+2022-11-30,FST Building,Water,3195.46,29.56
+2022-12-31,FST Building,Water,4473.65,50.42
+2023-01-31,FST Building,Water,2722.06,26.36
+2023-02-28,FST Building,Water,2722.06,25.16
+2023-03-31,FST Building,Water,2722.06,25.75
+2023-04-30,FST Building,Water,2722.06,27.24
+2023-05-31,FST Building,Water,1538.56,15.35
+2023-06-30,FST Building,Water,1538.56,13.67
+2023-07-31,FST Building,Water,1538.56,16.66
+2023-08-31,FST Building,Water,3195.46,27.34
+2023-09-30,FST Building,Water,3195.46,34.47
+2023-10-31,FST Building,Water,3195.46,28.53
+2023-11-30,FST Building,Water,3195.46,29.42
+2023-12-31,FST Building,Water,3195.46,32.57
+2024-01-31,FST Building,Water,2722.06,24.59
+2024-02-29,FST Building,Water,2722.06,24.36
+2024-03-31,FST Building,Water,2722.06,30.8
+2024-04-30,FST Building,Water,2722.06,26.5
+2024-05-31,FST Building,Water,2153.98,22.43
+2024-06-30,FST Building,Water,1538.56,16.85
+2024-07-31,FST Building,Water,1538.56,17.47
+2024-08-31,FST Building,Water,3195.46,28.33
+2024-09-30,FST Building,Water,3195.46,33.28
+2024-10-31,FST Building,Water,3195.46,34.66
+2024-11-30,FST Building,Water,3195.46,35.03
+2024-12-31,FST Building,Water,3195.46,31.02
+2020-01-31,FST Building,Gas,2010.91,136.88
+2020-02-29,FST Building,Gas,2010.91,163.69
+2020-03-31,FST Building,Gas,2010.91,137.28
+2020-04-30,FST Building,Gas,2010.91,161.49
+2020-05-31,FST Building,Gas,1136.6,79.61
+2020-06-30,FST Building,Gas,1136.6,77.91
+2020-07-31,FST Building,Gas,1136.6,100.61
+2020-08-31,FST Building,Gas,2360.63,195.79
+2020-09-30,FST Building,Gas,2360.63,177.71
+2020-10-31,FST Building,Gas,2360.63,181.21
+2020-11-30,FST Building,Gas,2360.63,164.59
+2020-12-31,FST Building,Gas,2360.63,204.28
+2021-01-31,FST Building,Gas,2010.91,147.59
+2021-02-28,FST Building,Gas,2010.91,151.29
+2021-03-31,FST Building,Gas,2010.91,176.38
+2021-04-30,FST Building,Gas,2010.91,150.0
+2021-05-31,FST Building,Gas,1136.6,94.69
+2021-06-30,FST Building,Gas,1136.6,98.54
+2021-07-31,FST Building,Gas,1136.6,80.76
+2021-08-31,FST Building,Gas,2360.63,176.13
+2021-09-30,FST Building,Gas,2360.63,177.81
+2021-10-31,FST Building,Gas,2360.63,179.49
+2021-11-30,FST Building,Gas,2360.63,190.27
+2021-12-31,FST Building,Gas,2360.63,183.39
+2022-01-31,FST Building,Gas,2010.91,176.75
+2022-02-28,FST Building,Gas,2010.91,160.31
+2022-03-31,FST Building,Gas,2010.91,162.12
+2022-04-30,FST Building,Gas,2010.91,173.46
+2022-05-31,FST Building,Gas,1136.6,84.95
+2022-06-30,FST Building,Gas,1136.6,83.3
+2022-07-31,FST Building,Gas,1136.6,90.3
+2022-08-31,FST Building,Gas,2360.63,193.87
+2022-09-30,FST Building,Gas,2360.63,185.28
+2022-10-31,FST Building,Gas,2360.63,202.24
+2022-11-30,FST Building,Gas,2360.63,163.16
+2022-12-31,FST Building,Gas,2360.63,166.03
+2023-01-31,FST Building,Gas,2010.91,164.51
+2023-02-28,FST Building,Gas,2010.91,150.66
+2023-03-31,FST Building,Gas,2010.91,182.29
+2023-04-30,FST Building,Gas,2010.91,146.15
+2023-05-31,FST Building,Gas,1136.6,82.72
+2023-06-30,FST Building,Gas,1136.6,93.26
+2023-07-31,FST Building,Gas,1136.6,93.21
+2023-08-31,FST Building,Gas,2360.63,169.8
+2023-09-30,FST Building,Gas,2360.63,202.22
+2023-10-31,FST Building,Gas,2360.63,204.36
+2023-11-30,FST Building,Gas,2360.63,163.75
+2023-12-31,FST Building,Gas,2360.63,169.46
+2024-01-31,FST Building,Gas,2010.91,143.1
+2024-02-29,FST Building,Gas,2010.91,141.62
+2024-03-31,FST Building,Gas,2010.91,142.54
+2024-04-30,FST Building,Gas,2010.91,141.5
+2024-05-31,FST Building,Gas,1136.6,97.92
+2024-06-30,FST Building,Gas,1136.6,96.66
+2024-07-31,FST Building,Gas,1136.6,96.0
+2024-08-31,FST Building,Gas,2360.63,184.02
+2024-09-30,FST Building,Gas,2360.63,192.93
+2024-10-31,FST Building,Gas,2360.63,167.14
+2024-11-30,FST Building,Gas,2360.63,214.94
+2024-12-31,FST Building,Gas,2360.63,169.88
+2020-01-31,Sir Philip Sherlock Hall,Electricity,8416.95,2305.78
+2020-02-29,Sir Philip Sherlock Hall,Electricity,4676.08,1210.77
+2020-03-31,Sir Philip Sherlock Hall,Electricity,4676.08,1318.74
+2020-04-30,Sir Philip Sherlock Hall,Electricity,4676.08,1292.65
+2020-05-31,Sir Philip Sherlock Hall,Electricity,2643.0,698.7
+2020-06-30,Sir Philip Sherlock Hall,Electricity,2643.0,729.45
+2020-07-31,Sir Philip Sherlock Hall,Electricity,2643.0,662.35
+2020-08-31,Sir Philip Sherlock Hall,Electricity,5489.32,1467.61
+2020-09-30,Sir Philip Sherlock Hall,Electricity,5489.32,1396.17
+2020-10-31,Sir Philip Sherlock Hall,Electricity,5489.32,1410.08
+2020-11-30,Sir Philip Sherlock Hall,Electricity,5489.32,1527.53
+2020-12-31,Sir Philip Sherlock Hall,Electricity,5489.32,1529.07
+2021-01-31,Sir Philip Sherlock Hall,Electricity,4676.08,1082.22
+2021-02-28,Sir Philip Sherlock Hall,Electricity,4676.08,1114.1
+2021-03-31,Sir Philip Sherlock Hall,Electricity,4676.08,1198.88
+2021-04-30,Sir Philip Sherlock Hall,Electricity,4676.08,1202.77
+2021-05-31,Sir Philip Sherlock Hall,Electricity,2643.0,580.94
+2021-06-30,Sir Philip Sherlock Hall,Electricity,2643.0,698.81
+2021-07-31,Sir Philip Sherlock Hall,Electricity,2643.0,716.42
+2021-08-31,Sir Philip Sherlock Hall,Electricity,5489.32,1499.16
+2021-09-30,Sir Philip Sherlock Hall,Electricity,5489.32,1321.28
+2021-10-31,Sir Philip Sherlock Hall,Electricity,5489.32,1285.23
+2021-11-30,Sir Philip Sherlock Hall,Electricity,5489.32,1181.73
+2021-12-31,Sir Philip Sherlock Hall,Electricity,5489.32,1300.63
+2022-01-31,Sir Philip Sherlock Hall,Electricity,4676.08,1182.06
+2022-02-28,Sir Philip Sherlock Hall,Electricity,4676.08,1179.0
+2022-03-31,Sir Philip Sherlock Hall,Electricity,4676.08,1338.88
+2022-04-30,Sir Philip Sherlock Hall,Electricity,4676.08,1119.89
+2022-05-31,Sir Philip Sherlock Hall,Electricity,2643.0,593.39
+2022-06-30,Sir Philip Sherlock Hall,Electricity,2643.0,657.75
+2022-07-31,Sir Philip Sherlock Hall,Electricity,2643.0,693.82
+2022-08-31,Sir Philip Sherlock Hall,Electricity,5489.32,1245.65
+2022-09-30,Sir Philip Sherlock Hall,Electricity,5489.32,1376.93
+2022-10-31,Sir Philip Sherlock Hall,Electricity,5489.32,1413.1
+2022-11-30,Sir Philip Sherlock Hall,Electricity,5489.32,1573.51
+2022-12-31,Sir Philip Sherlock Hall,Electricity,5489.32,1473.86
+2023-01-31,Sir Philip Sherlock Hall,Electricity,4676.08,1135.74
+2023-02-28,Sir Philip Sherlock Hall,Electricity,4676.08,1171.45
+2023-03-31,Sir Philip Sherlock Hall,Electricity,6546.52,1481.7
+2023-04-30,Sir Philip Sherlock Hall,Electricity,4676.08,1334.14
+2023-05-31,Sir Philip Sherlock Hall,Electricity,2643.0,674.16
+2023-06-30,Sir Philip Sherlock Hall,Electricity,2643.0,575.05
+2023-07-31,Sir Philip Sherlock Hall,Electricity,2643.0,628.49
+2023-08-31,Sir Philip Sherlock Hall,Electricity,5489.32,1178.86
+2023-09-30,Sir Philip Sherlock Hall,Electricity,5489.32,1309.97
+2023-10-31,Sir Philip Sherlock Hall,Electricity,5489.32,1446.2
+2023-11-30,Sir Philip Sherlock Hall,Electricity,5489.32,1267.03
+2023-12-31,Sir Philip Sherlock Hall,Electricity,5489.32,1185.22
+2024-01-31,Sir Philip Sherlock Hall,Electricity,4676.08,1000.46
+2024-02-29,Sir Philip Sherlock Hall,Electricity,4676.08,1155.22
+2024-03-31,Sir Philip Sherlock Hall,Electricity,8416.95,2035.62
+2024-04-30,Sir Philip Sherlock Hall,Electricity,4676.08,1196.54
+2024-05-31,Sir Philip Sherlock Hall,Electricity,3700.21,856.24
+2024-06-30,Sir Philip Sherlock Hall,Electricity,2643.0,679.94
+2024-07-31,Sir Philip Sherlock Hall,Electricity,2643.0,754.71
+2024-08-31,Sir Philip Sherlock Hall,Electricity,5489.32,1283.4
+2024-09-30,Sir Philip Sherlock Hall,Electricity,5489.32,1396.51
+2024-10-31,Sir Philip Sherlock Hall,Electricity,5489.32,1197.94
+2024-11-30,Sir Philip Sherlock Hall,Electricity,5489.32,1388.97
+2024-12-31,Sir Philip Sherlock Hall,Electricity,5489.32,1192.23
+2020-01-31,Sir Philip Sherlock Hall,Water,2136.67,21.54
+2020-02-29,Sir Philip Sherlock Hall,Water,2136.67,21.98
+2020-03-31,Sir Philip Sherlock Hall,Water,2136.67,23.54
+2020-04-30,Sir Philip Sherlock Hall,Water,2136.67,20.86
+2020-05-31,Sir Philip Sherlock Hall,Water,1207.68,12.11
+2020-06-30,Sir Philip Sherlock Hall,Water,1207.68,13.59
+2020-07-31,Sir Philip Sherlock Hall,Water,1207.68,11.02
+2020-08-31,Sir Philip Sherlock Hall,Water,3511.56,33.3
+2020-09-30,Sir Philip Sherlock Hall,Water,2508.26,23.25
+2020-10-31,Sir Philip Sherlock Hall,Water,2508.26,27.08
+2020-11-30,Sir Philip Sherlock Hall,Water,2508.26,27.52
+2020-12-31,Sir Philip Sherlock Hall,Water,2508.26,22.05
+2021-01-31,Sir Philip Sherlock Hall,Water,2136.67,21.19
+2021-02-28,Sir Philip Sherlock Hall,Water,2136.67,20.28
+2021-03-31,Sir Philip Sherlock Hall,Water,2136.67,23.31
+2021-04-30,Sir Philip Sherlock Hall,Water,2136.67,24.34
+2021-05-31,Sir Philip Sherlock Hall,Water,1207.68,11.52
+2021-06-30,Sir Philip Sherlock Hall,Water,1207.68,11.28
+2021-07-31,Sir Philip Sherlock Hall,Water,1207.68,10.47
+2021-08-31,Sir Philip Sherlock Hall,Water,2508.26,27.41
+2021-09-30,Sir Philip Sherlock Hall,Water,2508.26,26.42
+2021-10-31,Sir Philip Sherlock Hall,Water,2508.26,28.77
+2021-11-30,Sir Philip Sherlock Hall,Water,2508.26,23.95
+2021-12-31,Sir Philip Sherlock Hall,Water,2508.26,27.49
+2022-01-31,Sir Philip Sherlock Hall,Water,2136.67,21.49
+2022-02-28,Sir Philip Sherlock Hall,Water,2136.67,21.52
+2022-03-31,Sir Philip Sherlock Hall,Water,2136.67,19.89
+2022-04-30,Sir Philip Sherlock Hall,Water,2136.67,21.75
+2022-05-31,Sir Philip Sherlock Hall,Water,1207.68,11.46
+2022-06-30,Sir Philip Sherlock Hall,Water,1207.68,13.86
+2022-07-31,Sir Philip Sherlock Hall,Water,1207.68,10.63
+2022-08-31,Sir Philip Sherlock Hall,Water,2508.26,21.67
+2022-09-30,Sir Philip Sherlock Hall,Water,2508.26,24.33
+2022-10-31,Sir Philip Sherlock Hall,Water,2508.26,22.37
+2022-11-30,Sir Philip Sherlock Hall,Water,2508.26,28.38
+2022-12-31,Sir Philip Sherlock Hall,Water,2508.26,26.88
+2023-01-31,Sir Philip Sherlock Hall,Water,2136.67,23.38
+2023-02-28,Sir Philip Sherlock Hall,Water,2136.67,23.29
+2023-03-31,Sir Philip Sherlock Hall,Water,3846.0,35.63
+2023-04-30,Sir Philip Sherlock Hall,Water,2136.67,23.92
+2023-05-31,Sir Philip Sherlock Hall,Water,1207.68,10.57
+2023-06-30,Sir Philip Sherlock Hall,Water,1207.68,13.62
+2023-07-31,Sir Philip Sherlock Hall,Water,1207.68,10.66
+2023-08-31,Sir Philip Sherlock Hall,Water,2508.26,26.05
+2023-09-30,Sir Philip Sherlock Hall,Water,2508.26,28.59
+2023-10-31,Sir Philip Sherlock Hall,Water,2508.26,27.79
+2023-11-30,Sir Philip Sherlock Hall,Water,2508.26,26.26
+2023-12-31,Sir Philip Sherlock Hall,Water,2508.26,23.81
+2024-01-31,Sir Philip Sherlock Hall,Water,2136.67,18.28
+2024-02-29,Sir Philip Sherlock Hall,Water,2136.67,23.88
+2024-03-31,Sir Philip Sherlock Hall,Water,2136.67,22.32
+2024-04-30,Sir Philip Sherlock Hall,Water,2136.67,19.27
+2024-05-31,Sir Philip Sherlock Hall,Water,1207.68,12.46
+2024-06-30,Sir Philip Sherlock Hall,Water,1207.68,11.19
+2024-07-31,Sir Philip Sherlock Hall,Water,1207.68,10.67
+2024-08-31,Sir Philip Sherlock Hall,Water,3511.56,33.93
+2024-09-30,Sir Philip Sherlock Hall,Water,2508.26,24.58
+2024-10-31,Sir Philip Sherlock Hall,Water,2508.26,25.2
+2024-11-30,Sir Philip Sherlock Hall,Water,2508.26,28.79
+2024-12-31,Sir Philip Sherlock Hall,Water,2508.26,27.75
+2020-01-31,Sir Philip Sherlock Hall,Gas,1261.03,101.25
+2020-02-29,Sir Philip Sherlock Hall,Gas,1261.03,109.82
+2020-03-31,Sir Philip Sherlock Hall,Gas,1261.03,90.04
+2020-04-30,Sir Philip Sherlock Hall,Gas,1261.03,87.51
+2020-05-31,Sir Philip Sherlock Hall,Gas,712.75,58.0
+2020-06-30,Sir Philip Sherlock Hall,Gas,712.75,52.17
+2020-07-31,Sir Philip Sherlock Hall,Gas,712.75,54.98
+2020-08-31,Sir Philip Sherlock Hall,Gas,1480.34,106.25
+2020-09-30,Sir Philip Sherlock Hall,Gas,1480.34,111.06
+2020-10-31,Sir Philip Sherlock Hall,Gas,1480.34,124.04
+2020-11-30,Sir Philip Sherlock Hall,Gas,2664.6,241.91
+2020-12-31,Sir Philip Sherlock Hall,Gas,1480.34,134.53
+2021-01-31,Sir Philip Sherlock Hall,Gas,1261.03,88.22
+2021-02-28,Sir Philip Sherlock Hall,Gas,1765.44,125.2
+2021-03-31,Sir Philip Sherlock Hall,Gas,1261.03,87.24
+2021-04-30,Sir Philip Sherlock Hall,Gas,1261.03,106.72
+2021-05-31,Sir Philip Sherlock Hall,Gas,712.75,52.56
+2021-06-30,Sir Philip Sherlock Hall,Gas,712.75,57.18
+2021-07-31,Sir Philip Sherlock Hall,Gas,712.75,65.23
+2021-08-31,Sir Philip Sherlock Hall,Gas,1480.34,133.61
+2021-09-30,Sir Philip Sherlock Hall,Gas,1480.34,133.02
+2021-10-31,Sir Philip Sherlock Hall,Gas,2664.6,224.13
+2021-11-30,Sir Philip Sherlock Hall,Gas,1480.34,133.78
+2021-12-31,Sir Philip Sherlock Hall,Gas,1480.34,119.51
+2022-01-31,Sir Philip Sherlock Hall,Gas,1261.03,92.74
+2022-02-28,Sir Philip Sherlock Hall,Gas,1261.03,91.52
+2022-03-31,Sir Philip Sherlock Hall,Gas,1261.03,108.51
+2022-04-30,Sir Philip Sherlock Hall,Gas,1261.03,89.62
+2022-05-31,Sir Philip Sherlock Hall,Gas,712.75,59.79
+2022-06-30,Sir Philip Sherlock Hall,Gas,712.75,57.94
+2022-07-31,Sir Philip Sherlock Hall,Gas,712.75,49.58
+2022-08-31,Sir Philip Sherlock Hall,Gas,1480.34,109.23
+2022-09-30,Sir Philip Sherlock Hall,Gas,1480.34,135.5
+2022-10-31,Sir Philip Sherlock Hall,Gas,2072.47,173.58
+2022-11-30,Sir Philip Sherlock Hall,Gas,1480.34,105.02
+2022-12-31,Sir Philip Sherlock Hall,Gas,1480.34,128.53
+2023-01-31,Sir Philip Sherlock Hall,Gas,1261.03,108.02
+2023-02-28,Sir Philip Sherlock Hall,Gas,1261.03,94.72
+2023-03-31,Sir Philip Sherlock Hall,Gas,1261.03,108.52
+2023-04-30,Sir Philip Sherlock Hall,Gas,1261.03,104.78
+2023-05-31,Sir Philip Sherlock Hall,Gas,712.75,64.43
+2023-06-30,Sir Philip Sherlock Hall,Gas,712.75,49.76
+2023-07-31,Sir Philip Sherlock Hall,Gas,712.75,59.79
+2023-08-31,Sir Philip Sherlock Hall,Gas,1480.34,111.95
+2023-09-30,Sir Philip Sherlock Hall,Gas,1480.34,127.45
+2023-10-31,Sir Philip Sherlock Hall,Gas,1480.34,104.64
+2023-11-30,Sir Philip Sherlock Hall,Gas,1480.34,129.26
+2023-12-31,Sir Philip Sherlock Hall,Gas,1480.34,118.43
+2024-01-31,Sir Philip Sherlock Hall,Gas,1261.03,105.92
+2024-02-29,Sir Philip Sherlock Hall,Gas,1261.03,88.86
+2024-03-31,Sir Philip Sherlock Hall,Gas,2269.85,163.67
+2024-04-30,Sir Philip Sherlock Hall,Gas,1261.03,98.61
+2024-05-31,Sir Philip Sherlock Hall,Gas,712.75,51.24
+2024-06-30,Sir Philip Sherlock Hall,Gas,712.75,58.27
+2024-07-31,Sir Philip Sherlock Hall,Gas,712.75,64.32
+2024-08-31,Sir Philip Sherlock Hall,Gas,1480.34,118.62
+2024-09-30,Sir Philip Sherlock Hall,Gas,1480.34,130.96
+2024-10-31,Sir Philip Sherlock Hall,Gas,1480.34,124.36
+2024-11-30,Sir Philip Sherlock Hall,Gas,1480.34,134.6
+2024-12-31,Sir Philip Sherlock Hall,Gas,1480.34,118.02
+2020-01-31,Admin Building,Electricity,4548.28,1017.18
+2020-02-29,Admin Building,Electricity,6367.59,1506.7
+2020-03-31,Admin Building,Electricity,4548.28,1013.59
+2020-04-30,Admin Building,Electricity,4548.28,986.19
+2020-05-31,Admin Building,Electricity,2570.77,624.37
+2020-06-30,Admin Building,Electricity,2570.77,552.54
+2020-07-31,Admin Building,Electricity,2570.77,651.64
+2020-08-31,Admin Building,Electricity,5339.29,1508.88
+2020-09-30,Admin Building,Electricity,5339.29,1392.59
+2020-10-31,Admin Building,Electricity,5339.29,1150.46
+2020-11-30,Admin Building,Electricity,5339.29,1237.56
+2020-12-31,Admin Building,Electricity,5339.29,1434.27
+2021-01-31,Admin Building,Electricity,4548.28,1228.54
+2021-02-28,Admin Building,Electricity,4548.28,1258.29
+2021-03-31,Admin Building,Electricity,4548.28,1036.42
+2021-04-30,Admin Building,Electricity,4548.28,1148.18
+2021-05-31,Admin Building,Electricity,2570.77,725.08
+2021-06-30,Admin Building,Electricity,2570.77,704.69
+2021-07-31,Admin Building,Electricity,2570.77,613.98
+2021-08-31,Admin Building,Electricity,5339.29,1527.76
+2021-09-30,Admin Building,Electricity,5339.29,1462.49
+2021-10-31,Admin Building,Electricity,5339.29,1430.84
+2021-11-30,Admin Building,Electricity,5339.29,1494.57
+2021-12-31,Admin Building,Electricity,5339.29,1201.31
+2022-01-31,Admin Building,Electricity,4548.28,1257.25
+2022-02-28,Admin Building,Electricity,4548.28,975.77
+2022-03-31,Admin Building,Electricity,4548.28,969.9
+2022-04-30,Admin Building,Electricity,4548.28,1107.97
+2022-05-31,Admin Building,Electricity,2570.77,713.47
+2022-06-30,Admin Building,Electricity,2570.77,656.26
+2022-07-31,Admin Building,Electricity,2570.77,705.29
+2022-08-31,Admin Building,Electricity,5339.29,1529.92
+2022-09-30,Admin Building,Electricity,5339.29,1355.51
+2022-10-31,Admin Building,Electricity,5339.29,1311.13
+2022-11-30,Admin Building,Electricity,5339.29,1307.25
+2022-12-31,Admin Building,Electricity,5339.29,1153.74
+2023-01-31,Admin Building,Electricity,4548.28,1294.14
+2023-02-28,Admin Building,Electricity,4548.28,1216.16
+2023-03-31,Admin Building,Electricity,4548.28,1075.87
+2023-04-30,Admin Building,Electricity,4548.28,1137.11
+2023-05-31,Admin Building,Electricity,2570.77,565.03
+2023-06-30,Admin Building,Electricity,2570.77,598.24
+2023-07-31,Admin Building,Electricity,2570.77,600.46
+2023-08-31,Admin Building,Electricity,5339.29,1313.12
+2023-09-30,Admin Building,Electricity,5339.29,1336.76
+2023-10-31,Admin Building,Electricity,5339.29,1197.08
+2023-11-30,Admin Building,Electricity,5339.29,1409.4
+2023-12-31,Admin Building,Electricity,5339.29,1241.77
+2024-01-31,Admin Building,Electricity,4548.28,1186.05
+2024-02-29,Admin Building,Electricity,4548.28,1283.51
+2024-03-31,Admin Building,Electricity,4548.28,1044.67
+2024-04-30,Admin Building,Electricity,6367.59,1619.92
+2024-05-31,Admin Building,Electricity,2570.77,584.05
+2024-06-30,Admin Building,Electricity,2570.77,556.7
+2024-07-31,Admin Building,Electricity,2570.77,690.85
+2024-08-31,Admin Building,Electricity,5339.29,1325.34
+2024-09-30,Admin Building,Electricity,5339.29,1317.66
+2024-10-31,Admin Building,Electricity,5339.29,1269.11
+2024-11-30,Admin Building,Electricity,5339.29,1426.51
+2024-12-31,Admin Building,Electricity,5339.29,1309.29
+2020-01-31,Admin Building,Water,2309.95,23.45
+2020-02-29,Admin Building,Water,2309.95,25.33
+2020-03-31,Admin Building,Water,2309.95,26.53
+2020-04-30,Admin Building,Water,2309.95,25.23
+2020-05-31,Admin Building,Water,1305.63,11.13
+2020-06-30,Admin Building,Water,1305.63,12.71
+2020-07-31,Admin Building,Water,1305.63,13.27
+2020-08-31,Admin Building,Water,2711.68,26.44
+2020-09-30,Admin Building,Water,2711.68,23.49
+2020-10-31,Admin Building,Water,2711.68,24.61
+2020-11-30,Admin Building,Water,2711.68,26.52
+2020-12-31,Admin Building,Water,2711.68,23.29
+2021-01-31,Admin Building,Water,2309.95,23.3
+2021-02-28,Admin Building,Water,3233.93,32.8
+2021-03-31,Admin Building,Water,2309.95,23.13
+2021-04-30,Admin Building,Water,2309.95,25.78
+2021-05-31,Admin Building,Water,1305.63,11.31
+2021-06-30,Admin Building,Water,1305.63,12.08
+2021-07-31,Admin Building,Water,1305.63,12.24
+2021-08-31,Admin Building,Water,2711.68,23.41
+2021-09-30,Admin Building,Water,2711.68,28.41
+2021-10-31,Admin Building,Water,2711.68,26.82
+2021-11-30,Admin Building,Water,2711.68,30.47
+2021-12-31,Admin Building,Water,2711.68,25.55
+2022-01-31,Admin Building,Water,2309.95,20.08
+2022-02-28,Admin Building,Water,2309.95,22.48
+2022-03-31,Admin Building,Water,2309.95,21.31
+2022-04-30,Admin Building,Water,2309.95,21.22
+2022-05-31,Admin Building,Water,1305.63,14.46
+2022-06-30,Admin Building,Water,1305.63,13.32
+2022-07-31,Admin Building,Water,1305.63,14.65
+2022-08-31,Admin Building,Water,2711.68,29.42
+2022-09-30,Admin Building,Water,2711.68,23.84
+2022-10-31,Admin Building,Water,2711.68,27.0
+2022-11-30,Admin Building,Water,2711.68,28.66
+2022-12-31,Admin Building,Water,3796.36,42.18
+2023-01-31,Admin Building,Water,2309.95,22.73
+2023-02-28,Admin Building,Water,2309.95,23.11
+2023-03-31,Admin Building,Water,2309.95,23.85
+2023-04-30,Admin Building,Water,2309.95,25.77
+2023-05-31,Admin Building,Water,1305.63,11.71
+2023-06-30,Admin Building,Water,1305.63,11.27
+2023-07-31,Admin Building,Water,1305.63,13.27
+2023-08-31,Admin Building,Water,2711.68,30.55
+2023-09-30,Admin Building,Water,2711.68,28.22
+2023-10-31,Admin Building,Water,2711.68,25.1
+2023-11-30,Admin Building,Water,3796.36,34.36
+2023-12-31,Admin Building,Water,2711.68,30.1
+2024-01-31,Admin Building,Water,2309.95,25.29
+2024-02-29,Admin Building,Water,2309.95,24.31
+2024-03-31,Admin Building,Water,2309.95,25.41
+2024-04-30,Admin Building,Water,4157.91,43.38
+2024-05-31,Admin Building,Water,1305.63,11.56
+2024-06-30,Admin Building,Water,1305.63,12.69
+2024-07-31,Admin Building,Water,1305.63,12.31
+2024-08-31,Admin Building,Water,2711.68,25.35
+2024-09-30,Admin Building,Water,2711.68,23.75
+2024-10-31,Admin Building,Water,2711.68,24.9
+2024-11-30,Admin Building,Water,2711.68,30.23
+2024-12-31,Admin Building,Water,2711.68,30.13
+2020-01-31,Admin Building,Gas,1426.0,102.03
+2020-02-29,Admin Building,Gas,1426.0,108.05
+2020-03-31,Admin Building,Gas,1426.0,101.69
+2020-04-30,Admin Building,Gas,1426.0,115.52
+2020-05-31,Admin Building,Gas,806.0,58.96
+2020-06-30,Admin Building,Gas,806.0,66.84
+2020-07-31,Admin Building,Gas,806.0,58.7
+2020-08-31,Admin Building,Gas,1674.0,134.12
+2020-09-30,Admin Building,Gas,1674.0,124.41
+2020-10-31,Admin Building,Gas,1674.0,130.02
+2020-11-30,Admin Building,Gas,1674.0,127.96
+2020-12-31,Admin Building,Gas,1674.0,115.7
+2021-01-31,Admin Building,Gas,1426.0,129.54
+2021-02-28,Admin Building,Gas,1426.0,101.06
+2021-03-31,Admin Building,Gas,1426.0,104.29
+2021-04-30,Admin Building,Gas,1426.0,104.44
+2021-05-31,Admin Building,Gas,806.0,70.7
+2021-06-30,Admin Building,Gas,1128.4,89.74
+2021-07-31,Admin Building,Gas,806.0,69.54
+2021-08-31,Admin Building,Gas,3013.21,240.12
+2021-09-30,Admin Building,Gas,1674.0,133.26
+2021-10-31,Admin Building,Gas,1674.0,149.62
+2021-11-30,Admin Building,Gas,1674.0,140.15
+2021-12-31,Admin Building,Gas,1674.0,126.05
+2022-01-31,Admin Building,Gas,1426.0,122.97
+2022-02-28,Admin Building,Gas,1426.0,101.35
+2022-03-31,Admin Building,Gas,1426.0,116.2
+2022-04-30,Admin Building,Gas,1426.0,102.69
+2022-05-31,Admin Building,Gas,806.0,67.82
+2022-06-30,Admin Building,Gas,806.0,60.86
+2022-07-31,Admin Building,Gas,806.0,71.92
+2022-08-31,Admin Building,Gas,1674.0,147.76
+2022-09-30,Admin Building,Gas,1674.0,127.96
+2022-10-31,Admin Building,Gas,1674.0,135.74
+2022-11-30,Admin Building,Gas,1674.0,116.5
+2022-12-31,Admin Building,Gas,1674.0,142.63
+2023-01-31,Admin Building,Gas,1426.0,99.79
+2023-02-28,Admin Building,Gas,1996.4,179.22
+2023-03-31,Admin Building,Gas,1426.0,107.64
+2023-04-30,Admin Building,Gas,1426.0,99.79
+2023-05-31,Admin Building,Gas,806.0,73.99
+2023-06-30,Admin Building,Gas,806.0,59.24
+2023-07-31,Admin Building,Gas,806.0,65.6
+2023-08-31,Admin Building,Gas,1674.0,140.04
+2023-09-30,Admin Building,Gas,1674.0,138.52
+2023-10-31,Admin Building,Gas,1674.0,152.89
+2023-11-30,Admin Building,Gas,1674.0,132.3
+2023-12-31,Admin Building,Gas,1674.0,115.55
+2024-01-31,Admin Building,Gas,1426.0,116.76
+2024-02-29,Admin Building,Gas,1426.0,113.0
+2024-03-31,Admin Building,Gas,1426.0,113.63
+2024-04-30,Admin Building,Gas,1996.4,137.34
+2024-05-31,Admin Building,Gas,806.0,66.66
+2024-06-30,Admin Building,Gas,806.0,57.95
+2024-07-31,Admin Building,Gas,806.0,69.81
+2024-08-31,Admin Building,Gas,1674.0,146.5
+2024-09-30,Admin Building,Gas,1674.0,114.25
+2024-10-31,Admin Building,Gas,1674.0,150.67
+2024-11-30,Admin Building,Gas,1674.0,148.93
+2024-12-31,Admin Building,Gas,1674.0,123.11
